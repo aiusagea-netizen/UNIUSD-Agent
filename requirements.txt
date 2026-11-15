@@ -1,1 +1,3 @@
-requests, pandas, supabase, google-genai
+requests
+supabase
+google-genai
